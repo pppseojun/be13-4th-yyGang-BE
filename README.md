@@ -5,20 +5,27 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/8aef79a6-76b5-496a-ada1-40fc96373a83" width="100"  height="100"><br>
-      <b><a href="https://github.com/kimdoyun0806">김도윤</a></b><br>팀원
-    </td>
-     <td align="center">
-      <img src="https://github.com/user-attachments/assets/8aef79a6-76b5-496a-ada1-40fc96373a83" width="100"  height="100"><br>
-      <b><a href="">김민석</a></b><br>팀원
-    </td>
-    <td align="center">
-      <img src="https://github.com/user-attachments/assets/8aef79a6-76b5-496a-ada1-40fc96373a83" width="100" height="100"><br>
+      <img src="https://github.com/user-attachments/assets/9788e4c1-0329-44be-8749-9df6825cf981" width="100" height="100"><br>
       <b>🏆 <a href="https://github.com/namoo36">이승용</a></b><br><b>팀장</b>
     </td>
     <td align="center">
+     <img src="https://github.com/user-attachments/assets/afe283bf-9b48-418e-b241-13f0deb48c44" width="100" height="100"><br>
+      <b><a href="https://github.com/pppseojun">박서준</a></b><br>팀원
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/17ca198f-af37-498a-a22b-e9dfaa218681" width="100" height="100"><br>
+      <b><a href="https://github.com/deokChan2">이덕찬</a></b><br>팀원
+    </td>
+    <td align="center">
       <img src="https://github.com/user-attachments/assets/8aef79a6-76b5-496a-ada1-40fc96373a83" width="100"  height="100"><br>
+      <b><a href="https://github.com/kimdoyun0806">김도윤</a></b><br>팀원
+    <td align="center">
+<img src="https://github.com/user-attachments/assets/64052e2a-ec23-4bc5-b81a-564a4c19a948" width="100"  height="100"><br>
       <b><a href="https://github.com/jelee55">이제경</a></b><br>팀원
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/25652a28-eee6-4c9b-9407-301cf8423c4c" width="100"  height="100"><br>
+      <b><a href="https://github.com/2HEEJIN">이희진</a></b><br>팀원
     </td>
   </tr>
 </table>
